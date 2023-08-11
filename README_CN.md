@@ -179,6 +179,6 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 
 [见项目贡献者列表](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
 
-## 开源协议
+## 开源协议  1
 
 [MIT](https://opensource.org/license/mit/)
